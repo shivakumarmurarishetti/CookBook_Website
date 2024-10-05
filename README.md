@@ -35,4 +35,8 @@ To run the website locally, follow these steps:
 3. **Open the Website**:
    
    Locate the index.html file in the project directory.
-   Open it with your preferred web browser by double-clicking the file or using the browser's "Open File" option.   
+   Open it with your preferred web browser by double-clicking the file or using the browser's "Open File" option.
+   
+ ### Output of the website
+ website-output.pdf
+  
