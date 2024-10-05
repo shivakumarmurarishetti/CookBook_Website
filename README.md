@@ -38,5 +38,5 @@ To run the website locally, follow these steps:
    Open it with your preferred web browser by double-clicking the file or using the browser's "Open File" option.
    
  ### Output of the website
- website-output.pdf
+   [website-output.pdf](https://github.com/shivakumarmurarishetti/CookBook_Website/blob/main/website-output.pdf)
   
